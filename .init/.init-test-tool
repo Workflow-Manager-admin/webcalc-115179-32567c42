@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/webcalc-115179-32567c42/calculator_frontend"
+}
